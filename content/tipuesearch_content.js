@@ -1,0 +1,1 @@
+var tipuesearch = {"pages": [{'title': 'About', 'text': '倉儲:  https://github.com/mdewcm2023/site-s40723224 \n 網站:  https://mdewcm2023.github.io/site-s40723223', 'tags': '', 'url': 'About.html'}, {'title': 'w9', 'text': '', 'tags': '', 'url': 'w9.html'}]};
